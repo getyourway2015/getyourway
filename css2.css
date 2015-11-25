@@ -1,0 +1,23 @@
+html, body{
+	min-height: 100%;
+}
+
+#loginForm{
+	padding: 5px;
+	border-radius: 9px;
+}
+
+#travelInfo iframe{
+	height: 500px;
+}
+
+#map{
+	height: 505px;
+}
+
+*
+{
+	margin:  0;
+	padding: 0;
+}
+

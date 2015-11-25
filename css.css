@@ -1,0 +1,44 @@
+html, body{
+	min-height: 100%;
+
+
+}
+#searchForm{
+	padding: 5px;
+   	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	border-radius: 9px;
+}
+
+#loginForm{
+	padding: 5px;
+	border-radius: 9px;
+}
+
+#flightChecker{
+	color: rgb(255,255,255) ;
+}
+
+body{
+     background-image: url("plane.jpg");
+	 background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+#swapIcon{
+	text-align: center;
+}
+
+
+#travelInfo iframe{
+	height: 500px;
+}
+
+#map{
+	height: 500px;
+}
+
+
+
